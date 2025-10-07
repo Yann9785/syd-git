@@ -27,5 +27,15 @@ Le dépôt original n'a pas été modifié. Au début, je l'ai clôné et mis la
 ## Gitgraph
 
 ### Task 7
+1) Nom de la branche de développement
+2) Identifiant du commit (hash)
+3) Message du commit
+4) Auteur du commit
+5) Tag qui marque la version
+6) Branche bleue develop
+7) Branche jaune feature
+8) Branche grise main
+9) Developpement branche bleue avant la fusion
+10) Commit initial du projet
 
 ![Gitgraph](img/gitgraph.svg)
