@@ -1,7 +1,8 @@
-# Answers of <students-firstname> <students-lastname> <github-username>
+# Answers of Yann Gottraux Yann9785
 
 ## Basics
 ### Task 1
+C'est l’état actuel de mon dépôt, c’est-à-dire ce qui a changé depuis le dernier commit.
 
 ### Task 2
 
